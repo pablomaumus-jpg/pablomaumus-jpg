@@ -28,7 +28,7 @@ I bridge the gap between corporate finance, accounting, and data automation. Wit
 - 🔭 **Currently working on:** Automating financial reconciliations, cash-flow tracking, and reporting workflows using Python and Excel VBA.
 - 🌱 **Currently learning:** Advanced data modeling, statistical analysis (`statsmodels`), and building end-to-end ETL pipelines for financial datasets.
 - 💡 **Ask me about:** Accounting logic, Record-to-Report (R2R) processes, SAP FI, Power Query, DAX, or automating repetitive Excel tasks.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/tu-usuario) | [Email](mailto:tu-email@ejemplo.com)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pablogermanmaumus) | [Email](mailto:pablomaumus@gmail.com)
 - ⚡ **Fun fact:** Off the screen, I'm into DIY woodworking and steel furniture fabrication, artisanal cooking, and riding my motorcycle.
 
 ---
